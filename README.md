@@ -47,6 +47,8 @@ npm run preview
 
 This project is ready for Vercel, Netlify, or GitHub Pages. For Vercel, import the GitHub repository and use:
 
+Repository: https://github.com/sultan101004/Personal-Porfolio
+
 - Build command: `npm run build`
 - Output directory: `dist`
 - Install command: `npm install`
